@@ -15,9 +15,3 @@ This **Cache Simulator** is designed to simulate various types of cache architec
 - **C++**
 - **Standard Template Library (STL)**
 - **Mathematical Operations** (`<cmath>`)
-
-## Setup & Installation
-
-### Prerequisites
-
-Ensure that you have a C++ compiler installed (e.g., `g++`).
